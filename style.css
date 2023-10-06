@@ -1,0 +1,56 @@
+body{
+	background-image: url("black.png");
+	text-align: justify;
+	font-family: Verdana;
+	font-size: 12px;
+	color: black;
+}
+#tarolo{
+	padding: 10px;
+	width: 80%;
+	max-width: 700px;
+	margin: auto;
+}
+.game{
+	text-align: center;
+}
+#fejlec{
+	width: 100%
+}
+#fejlec img{
+	width: 100%;
+	margin: 5px;
+}
+.jobb{
+	width: 200px;
+	float: right;
+}
+nav a{
+	color: white;
+}
+a:hover{
+	background-color: white;
+	color: white;
+}
+.torol{
+	clear: both;
+}
+#nav{
+	background-color: white;
+}
+#jogok{
+	background-color: orange;
+	color: white;
+	text-align: center;
+}
+#menu a {
+	color: white;
+	font-size: 15px;
+	padding: 10px;
+	border: 1px white solid;
+	border-radius: 10px;
+	text-decoration: none;
+}
+h1{
+	font-size: 15px;
+}
